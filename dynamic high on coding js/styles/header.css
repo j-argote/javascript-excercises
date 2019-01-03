@@ -1,0 +1,21 @@
+.headerCol{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+}
+
+.textMiddle{
+    color: white;
+    font-size: 40px;
+}
+
+.textRight{
+    color: white;
+    font-size: 40px;
+}

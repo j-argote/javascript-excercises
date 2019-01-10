@@ -1,4 +1,4 @@
-//deck of 52 cards
+//creates deck of 52 cards and calculates points for blackjack game
 function createDeck() {
     var deck = [];
     var suits = ['H', 'D', 'C', 'S'];
